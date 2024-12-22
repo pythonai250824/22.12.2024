@@ -1,3 +1,6 @@
 
 -- try left join : excluse? inclusive?
 -- how to do the 2nd one?
+
+-- right inclusive -- join cars drivers ...
+-- right EXCLUSIVE -- join cars drivers ...
