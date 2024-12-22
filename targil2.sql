@@ -1,0 +1,10 @@
+-- targil
+-- 1. use join- find all employees without branch
+-- 1.5. use join- find all employees with and without branch
+-- 2. use join- find all branches without employees
+-- 2.5. use join- find all branches without and without employees
+-- 3. use join- find all employees and all branches
+-- 4. use join- show only  employees who have branches
+-- 5. use join - show all emnployees that dont have branch and branches that dont have employees
+-- group by - count how many employees in each branch. show only barnches who have employees
+-- group by - show avg salary for each branch. show only barnches who have employees
