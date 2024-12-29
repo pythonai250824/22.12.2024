@@ -28,7 +28,6 @@ INSERT INTO Courses (name, lecturer_id) VALUES ('Physics', 2);
 INSERT INTO Courses (name, lecturer_id) VALUES ('Chemistry', 3);
 INSERT INTO Courses (name, lecturer_id) VALUES ('Economics', 7);
 INSERT INTO Courses (name, lecturer_id) VALUES ('Biology', 4);
-INSERT INTO Courses (name, lecturer_id) VALUES ('Sociology', 10);
 INSERT INTO Courses (name, lecturer_id) VALUES ('Art History', NULL);
 INSERT INTO Courses (name, lecturer_id) VALUES ('Music Theory', NULL);
 INSERT INTO Courses (name, lecturer_id) VALUES ('Philosophy', 8);
